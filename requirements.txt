@@ -1,1 +1,5 @@
+torch==1.12.1+cpu
+torchaudio==0.12.1+cpu
+torchvision==0.13.1+cpu
+farm-haystack @ git+https://github.com/deepset-ai/haystack.git@54bf7ad3439a9c481cb8d32ca720612a1341deb8
 
